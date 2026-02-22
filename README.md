@@ -6,17 +6,22 @@ Descripción
 Aplicación desarrollada en Streamlit que integra conceptos fundamentales de
 programación como variables, condicionales, estructuras de datos, funciones,
 programación funcional y POO.
-Estructura
+# Estructura
 • app.py
 • requirements.txt
 • README.md
-Instrucciones de ejecución
+# Instrucciones de ejecución
+
 1. Instalar dependencias
 2. Ejecutar: streamlit run app.py
-Repositorio GitHub: (colocar enlace)
-Aplicación en Streamlit Cloud: (colocar enlace)
+
+# Repositorio GitHub: 
+
+# Aplicación en Streamlit Cloud: 
 
 
-Autor: Diego Alfredo Chunga Bonilla
+# Autor: 
+Diego Alfredo Chunga Bonilla
 
-Año: 2026
+# Año:
+2026
