@@ -18,4 +18,5 @@ Aplicación en Streamlit Cloud: (colocar enlace)
 
 
 Autor: Diego Alfredo Chunga Bonilla
+
 Año: 2026
