@@ -18,7 +18,7 @@ Aplicación desarrollada en Streamlit que integra conceptos fundamentales de pro
 # Repositorio GitHub: 
 
 # Aplicación en Streamlit Cloud: 
-
+https://trabajoparcialdmc-diegoalfredochungabonilla.streamlit.app/
 
 # Autor: 
 Diego Alfredo Chunga Bonilla
