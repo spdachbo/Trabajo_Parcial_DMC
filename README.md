@@ -16,7 +16,7 @@ Aplicación desarrollada en Streamlit que integra conceptos fundamentales de pro
 2. Ejecutar: streamlit run app.py
 
 # Repositorio GitHub: 
-
+https://github.com/spdachbo/Trabajo_Parcial_DMC 
 # Aplicación en Streamlit Cloud: 
 https://trabajoparcialdmc-diegoalfredochungabonilla.streamlit.app/
 
